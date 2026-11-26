@@ -1,0 +1,6 @@
+# Checkpoints rebuilt by reassemble_checkpoints.sh (the committed copies are the *.pt.part-NN files)
+*.pt
+__pycache__/
+*.py[cod]
+.pytest_cache/
+*.egg-info/

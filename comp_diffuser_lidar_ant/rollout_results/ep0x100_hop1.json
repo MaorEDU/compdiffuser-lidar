@@ -1,0 +1,1007 @@
+{
+  "pl_seeds": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27,
+    28,
+    29,
+    30,
+    31,
+    32,
+    33,
+    34,
+    35,
+    36,
+    37,
+    38,
+    39,
+    40,
+    41,
+    42,
+    43,
+    44,
+    45,
+    46,
+    47,
+    48,
+    49,
+    50,
+    51,
+    52,
+    53,
+    54,
+    55,
+    56,
+    57,
+    58,
+    59,
+    60,
+    61,
+    62,
+    63,
+    64,
+    65,
+    66,
+    67,
+    68,
+    69,
+    70,
+    71,
+    72,
+    73,
+    74,
+    75,
+    76,
+    77,
+    78,
+    79,
+    80,
+    81,
+    82,
+    83,
+    84,
+    85,
+    86,
+    87,
+    88,
+    89,
+    90,
+    91,
+    92,
+    93,
+    94,
+    95,
+    96,
+    97,
+    98,
+    99
+  ],
+  "ep_st_idx": 0,
+  "per_seed_summary": [
+    {
+      "seed": 0,
+      "ep_is_suc": [
+        false
+      ],
+      "ep_min_goal_dist": [
+        19.834
+      ]
+    },
+    {
+      "seed": 1,
+      "ep_is_suc": [
+        true
+      ],
+      "ep_min_goal_dist": [
+        0.569
+      ]
+    },
+    {
+      "seed": 2,
+      "ep_is_suc": [
+        true
+      ],
+      "ep_min_goal_dist": [
+        0.569
+      ]
+    },
+    {
+      "seed": 3,
+      "ep_is_suc": [
+        false
+      ],
+      "ep_min_goal_dist": [
+        1.096
+      ]
+    },
+    {
+      "seed": 4,
+      "ep_is_suc": [
+        true
+      ],
+      "ep_min_goal_dist": [
+        0.569
+      ]
+    },
+    {
+      "seed": 5,
+      "ep_is_suc": [
+        true
+      ],
+      "ep_min_goal_dist": [
+        0.569
+      ]
+    },
+    {
+      "seed": 6,
+      "ep_is_suc": [
+        true
+      ],
+      "ep_min_goal_dist": [
+        0.201
+      ]
+    },
+    {
+      "seed": 7,
+      "ep_is_suc": [
+        false
+      ],
+      "ep_min_goal_dist": [
+        33.394
+      ]
+    },
+    {
+      "seed": 8,
+      "ep_is_suc": [
+        true
+      ],
+      "ep_min_goal_dist": [
+        0.569
+      ]
+    },
+    {
+      "seed": 9,
+      "ep_is_suc": [
+        false
+      ],
+      "ep_min_goal_dist": [
+        33.394
+      ]
+    },
+    {
+      "seed": 10,
+      "ep_is_suc": [
+        true
+      ],
+      "ep_min_goal_dist": [
+        0.569
+      ]
+    },
+    {
+      "seed": 11,
+      "ep_is_suc": [
+        true
+      ],
+      "ep_min_goal_dist": [
+        0.569
+      ]
+    },
+    {
+      "seed": 12,
+      "ep_is_suc": [
+        true
+      ],
+      "ep_min_goal_dist": [
+        0.569
+      ]
+    },
+    {
+      "seed": 13,
+      "ep_is_suc": [
+        true
+      ],
+      "ep_min_goal_dist": [
+        0.201
+      ]
+    },
+    {
+      "seed": 14,
+      "ep_is_suc": [
+        true
+      ],
+      "ep_min_goal_dist": [
+        0.569
+      ]
+    },
+    {
+      "seed": 15,
+      "ep_is_suc": [
+        true
+      ],
+      "ep_min_goal_dist": [
+        0.569
+      ]
+    },
+    {
+      "seed": 16,
+      "ep_is_suc": [
+        false
+      ],
+      "ep_min_goal_dist": [
+        18.195
+      ]
+    },
+    {
+      "seed": 17,
+      "ep_is_suc": [
+        true
+      ],
+      "ep_min_goal_dist": [
+        0.569
+      ]
+    },
+    {
+      "seed": 18,
+      "ep_is_suc": [
+        true
+      ],
+      "ep_min_goal_dist": [
+        0.569
+      ]
+    },
+    {
+      "seed": 19,
+      "ep_is_suc": [
+        false
+      ],
+      "ep_min_goal_dist": [
+        18.195
+      ]
+    },
+    {
+      "seed": 20,
+      "ep_is_suc": [
+        false
+      ],
+      "ep_min_goal_dist": [
+        18.195
+      ]
+    },
+    {
+      "seed": 21,
+      "ep_is_suc": [
+        false
+      ],
+      "ep_min_goal_dist": [
+        18.195
+      ]
+    },
+    {
+      "seed": 22,
+      "ep_is_suc": [
+        true
+      ],
+      "ep_min_goal_dist": [
+        0.569
+      ]
+    },
+    {
+      "seed": 23,
+      "ep_is_suc": [
+        true
+      ],
+      "ep_min_goal_dist": [
+        0.569
+      ]
+    },
+    {
+      "seed": 24,
+      "ep_is_suc": [
+        true
+      ],
+      "ep_min_goal_dist": [
+        0.569
+      ]
+    },
+    {
+      "seed": 25,
+      "ep_is_suc": [
+        true
+      ],
+      "ep_min_goal_dist": [
+        0.569
+      ]
+    },
+    {
+      "seed": 26,
+      "ep_is_suc": [
+        true
+      ],
+      "ep_min_goal_dist": [
+        0.569
+      ]
+    },
+    {
+      "seed": 27,
+      "ep_is_suc": [
+        false
+      ],
+      "ep_min_goal_dist": [
+        1.096
+      ]
+    },
+    {
+      "seed": 28,
+      "ep_is_suc": [
+        true
+      ],
+      "ep_min_goal_dist": [
+        0.201
+      ]
+    },
+    {
+      "seed": 29,
+      "ep_is_suc": [
+        true
+      ],
+      "ep_min_goal_dist": [
+        0.935
+      ]
+    },
+    {
+      "seed": 30,
+      "ep_is_suc": [
+        true
+      ],
+      "ep_min_goal_dist": [
+        0.569
+      ]
+    },
+    {
+      "seed": 31,
+      "ep_is_suc": [
+        true
+      ],
+      "ep_min_goal_dist": [
+        0.201
+      ]
+    },
+    {
+      "seed": 32,
+      "ep_is_suc": [
+        true
+      ],
+      "ep_min_goal_dist": [
+        0.935
+      ]
+    },
+    {
+      "seed": 33,
+      "ep_is_suc": [
+        false
+      ],
+      "ep_min_goal_dist": [
+        18.195
+      ]
+    },
+    {
+      "seed": 34,
+      "ep_is_suc": [
+        true
+      ],
+      "ep_min_goal_dist": [
+        0.201
+      ]
+    },
+    {
+      "seed": 35,
+      "ep_is_suc": [
+        true
+      ],
+      "ep_min_goal_dist": [
+        0.935
+      ]
+    },
+    {
+      "seed": 36,
+      "ep_is_suc": [
+        true
+      ],
+      "ep_min_goal_dist": [
+        0.569
+      ]
+    },
+    {
+      "seed": 37,
+      "ep_is_suc": [
+        false
+      ],
+      "ep_min_goal_dist": [
+        1.096
+      ]
+    },
+    {
+      "seed": 38,
+      "ep_is_suc": [
+        false
+      ],
+      "ep_min_goal_dist": [
+        33.394
+      ]
+    },
+    {
+      "seed": 39,
+      "ep_is_suc": [
+        true
+      ],
+      "ep_min_goal_dist": [
+        0.935
+      ]
+    },
+    {
+      "seed": 40,
+      "ep_is_suc": [
+        false
+      ],
+      "ep_min_goal_dist": [
+        1.096
+      ]
+    },
+    {
+      "seed": 41,
+      "ep_is_suc": [
+        true
+      ],
+      "ep_min_goal_dist": [
+        0.569
+      ]
+    },
+    {
+      "seed": 42,
+      "ep_is_suc": [
+        false
+      ],
+      "ep_min_goal_dist": [
+        18.195
+      ]
+    },
+    {
+      "seed": 43,
+      "ep_is_suc": [
+        true
+      ],
+      "ep_min_goal_dist": [
+        0.569
+      ]
+    },
+    {
+      "seed": 44,
+      "ep_is_suc": [
+        true
+      ],
+      "ep_min_goal_dist": [
+        0.569
+      ]
+    },
+    {
+      "seed": 45,
+      "ep_is_suc": [
+        true
+      ],
+      "ep_min_goal_dist": [
+        0.569
+      ]
+    },
+    {
+      "seed": 46,
+      "ep_is_suc": [
+        true
+      ],
+      "ep_min_goal_dist": [
+        0.569
+      ]
+    },
+    {
+      "seed": 47,
+      "ep_is_suc": [
+        true
+      ],
+      "ep_min_goal_dist": [
+        0.569
+      ]
+    },
+    {
+      "seed": 48,
+      "ep_is_suc": [
+        true
+      ],
+      "ep_min_goal_dist": [
+        0.569
+      ]
+    },
+    {
+      "seed": 49,
+      "ep_is_suc": [
+        true
+      ],
+      "ep_min_goal_dist": [
+        0.569
+      ]
+    },
+    {
+      "seed": 50,
+      "ep_is_suc": [
+        true
+      ],
+      "ep_min_goal_dist": [
+        0.935
+      ]
+    },
+    {
+      "seed": 51,
+      "ep_is_suc": [
+        true
+      ],
+      "ep_min_goal_dist": [
+        0.569
+      ]
+    },
+    {
+      "seed": 52,
+      "ep_is_suc": [
+        true
+      ],
+      "ep_min_goal_dist": [
+        0.201
+      ]
+    },
+    {
+      "seed": 53,
+      "ep_is_suc": [
+        true
+      ],
+      "ep_min_goal_dist": [
+        0.569
+      ]
+    },
+    {
+      "seed": 54,
+      "ep_is_suc": [
+        true
+      ],
+      "ep_min_goal_dist": [
+        0.569
+      ]
+    },
+    {
+      "seed": 55,
+      "ep_is_suc": [
+        false
+      ],
+      "ep_min_goal_dist": [
+        1.096
+      ]
+    },
+    {
+      "seed": 56,
+      "ep_is_suc": [
+        true
+      ],
+      "ep_min_goal_dist": [
+        0.569
+      ]
+    },
+    {
+      "seed": 57,
+      "ep_is_suc": [
+        true
+      ],
+      "ep_min_goal_dist": [
+        0.569
+      ]
+    },
+    {
+      "seed": 58,
+      "ep_is_suc": [
+        true
+      ],
+      "ep_min_goal_dist": [
+        0.569
+      ]
+    },
+    {
+      "seed": 59,
+      "ep_is_suc": [
+        true
+      ],
+      "ep_min_goal_dist": [
+        0.201
+      ]
+    },
+    {
+      "seed": 60,
+      "ep_is_suc": [
+        false
+      ],
+      "ep_min_goal_dist": [
+        19.834
+      ]
+    },
+    {
+      "seed": 61,
+      "ep_is_suc": [
+        true
+      ],
+      "ep_min_goal_dist": [
+        0.569
+      ]
+    },
+    {
+      "seed": 62,
+      "ep_is_suc": [
+        true
+      ],
+      "ep_min_goal_dist": [
+        0.569
+      ]
+    },
+    {
+      "seed": 63,
+      "ep_is_suc": [
+        false
+      ],
+      "ep_min_goal_dist": [
+        19.834
+      ]
+    },
+    {
+      "seed": 64,
+      "ep_is_suc": [
+        false
+      ],
+      "ep_min_goal_dist": [
+        18.195
+      ]
+    },
+    {
+      "seed": 65,
+      "ep_is_suc": [
+        true
+      ],
+      "ep_min_goal_dist": [
+        0.569
+      ]
+    },
+    {
+      "seed": 66,
+      "ep_is_suc": [
+        true
+      ],
+      "ep_min_goal_dist": [
+        0.569
+      ]
+    },
+    {
+      "seed": 67,
+      "ep_is_suc": [
+        true
+      ],
+      "ep_min_goal_dist": [
+        0.569
+      ]
+    },
+    {
+      "seed": 68,
+      "ep_is_suc": [
+        false
+      ],
+      "ep_min_goal_dist": [
+        44.968
+      ]
+    },
+    {
+      "seed": 69,
+      "ep_is_suc": [
+        true
+      ],
+      "ep_min_goal_dist": [
+        0.569
+      ]
+    },
+    {
+      "seed": 70,
+      "ep_is_suc": [
+        true
+      ],
+      "ep_min_goal_dist": [
+        0.569
+      ]
+    },
+    {
+      "seed": 71,
+      "ep_is_suc": [
+        true
+      ],
+      "ep_min_goal_dist": [
+        0.569
+      ]
+    },
+    {
+      "seed": 72,
+      "ep_is_suc": [
+        true
+      ],
+      "ep_min_goal_dist": [
+        0.569
+      ]
+    },
+    {
+      "seed": 73,
+      "ep_is_suc": [
+        true
+      ],
+      "ep_min_goal_dist": [
+        0.569
+      ]
+    },
+    {
+      "seed": 74,
+      "ep_is_suc": [
+        true
+      ],
+      "ep_min_goal_dist": [
+        0.569
+      ]
+    },
+    {
+      "seed": 75,
+      "ep_is_suc": [
+        true
+      ],
+      "ep_min_goal_dist": [
+        0.569
+      ]
+    },
+    {
+      "seed": 76,
+      "ep_is_suc": [
+        true
+      ],
+      "ep_min_goal_dist": [
+        0.569
+      ]
+    },
+    {
+      "seed": 77,
+      "ep_is_suc": [
+        true
+      ],
+      "ep_min_goal_dist": [
+        0.569
+      ]
+    },
+    {
+      "seed": 78,
+      "ep_is_suc": [
+        true
+      ],
+      "ep_min_goal_dist": [
+        0.569
+      ]
+    },
+    {
+      "seed": 79,
+      "ep_is_suc": [
+        true
+      ],
+      "ep_min_goal_dist": [
+        0.569
+      ]
+    },
+    {
+      "seed": 80,
+      "ep_is_suc": [
+        true
+      ],
+      "ep_min_goal_dist": [
+        0.201
+      ]
+    },
+    {
+      "seed": 81,
+      "ep_is_suc": [
+        false
+      ],
+      "ep_min_goal_dist": [
+        1.096
+      ]
+    },
+    {
+      "seed": 82,
+      "ep_is_suc": [
+        true
+      ],
+      "ep_min_goal_dist": [
+        0.569
+      ]
+    },
+    {
+      "seed": 83,
+      "ep_is_suc": [
+        true
+      ],
+      "ep_min_goal_dist": [
+        0.569
+      ]
+    },
+    {
+      "seed": 84,
+      "ep_is_suc": [
+        true
+      ],
+      "ep_min_goal_dist": [
+        0.569
+      ]
+    },
+    {
+      "seed": 85,
+      "ep_is_suc": [
+        true
+      ],
+      "ep_min_goal_dist": [
+        0.569
+      ]
+    },
+    {
+      "seed": 86,
+      "ep_is_suc": [
+        true
+      ],
+      "ep_min_goal_dist": [
+        0.569
+      ]
+    },
+    {
+      "seed": 87,
+      "ep_is_suc": [
+        true
+      ],
+      "ep_min_goal_dist": [
+        0.569
+      ]
+    },
+    {
+      "seed": 88,
+      "ep_is_suc": [
+        true
+      ],
+      "ep_min_goal_dist": [
+        0.569
+      ]
+    },
+    {
+      "seed": 89,
+      "ep_is_suc": [
+        true
+      ],
+      "ep_min_goal_dist": [
+        0.569
+      ]
+    },
+    {
+      "seed": 90,
+      "ep_is_suc": [
+        true
+      ],
+      "ep_min_goal_dist": [
+        0.569
+      ]
+    },
+    {
+      "seed": 91,
+      "ep_is_suc": [
+        true
+      ],
+      "ep_min_goal_dist": [
+        0.569
+      ]
+    },
+    {
+      "seed": 92,
+      "ep_is_suc": [
+        true
+      ],
+      "ep_min_goal_dist": [
+        0.569
+      ]
+    },
+    {
+      "seed": 93,
+      "ep_is_suc": [
+        true
+      ],
+      "ep_min_goal_dist": [
+        0.201
+      ]
+    },
+    {
+      "seed": 94,
+      "ep_is_suc": [
+        true
+      ],
+      "ep_min_goal_dist": [
+        0.569
+      ]
+    },
+    {
+      "seed": 95,
+      "ep_is_suc": [
+        true
+      ],
+      "ep_min_goal_dist": [
+        0.569
+      ]
+    },
+    {
+      "seed": 96,
+      "ep_is_suc": [
+        true
+      ],
+      "ep_min_goal_dist": [
+        0.569
+      ]
+    },
+    {
+      "seed": 97,
+      "ep_is_suc": [
+        true
+      ],
+      "ep_min_goal_dist": [
+        0.569
+      ]
+    },
+    {
+      "seed": 98,
+      "ep_is_suc": [
+        false
+      ],
+      "ep_min_goal_dist": [
+        1.096
+      ]
+    },
+    {
+      "seed": 99,
+      "ep_is_suc": [
+        true
+      ],
+      "ep_min_goal_dist": [
+        0.569
+      ]
+    }
+  ]
+}

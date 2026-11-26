@@ -1,0 +1,207 @@
+{
+  "num_ep": 1,
+  "ep_srate": 100.0,
+  "avg_ep_scores": 0.0,
+  "avg_ep_rewards": 17.0,
+  "pl_seed": 0,
+  "epoch_diffusion": 1600000,
+  "cond_w": 2.0,
+  "p_h5path": "./data/ogb_maze/ev_probs/ogb_antM_Gi_ev_prob_numEp20_eSdSt0.hdf5",
+  "var_temp": 1.0,
+  "use_ddim": true,
+  "ddim_eta": 1.0,
+  "ddim_steps": 50,
+  "is_replan": "periodic",
+  "repl_wp_cfg": {},
+  "repl_ada_dist_cfg": {
+    "n_max_steps": 8000,
+    "max_n_repl": 15,
+    "repl_every": 500
+  },
+  "extra_env_steps": 150,
+  "b_size_per_prob": 40,
+  "pol_config": {
+    "ev_cp_infer_t_type": "interleave",
+    "ev_n_comp": 9,
+    "ev_top_n": 5,
+    "ev_pick_type": "first",
+    "ev_goal_pick_tail": 8
+  },
+  "tj_blder_config": {
+    "blend_type": "exp",
+    "exp_beta": 2
+  },
+  "n_batch_acc_probs": 4,
+  "max_episode_steps": 8000,
+  "act_control": "pred_inv",
+  "n_act_per_waypnt": 1,
+  "inv_model_path": "logs/antmaze-giant-stitch-v0/diffusion/og_antM_Gi_lidar30_noxy_g30d_invdyn_h24_chunk16",
+  "inv_epoch": "1600000",
+  "is_inv_train_mode": false,
+  "ep_st_idx": 0,
+  "hostname": "ece-silbmark2",
+  "p_type": "plan_once",
+  "avg_t_dict": {
+    "0.0": {
+      "n": 14,
+      "t": 0.6209,
+      "e": 0.3031
+    }
+  },
+  "ep_fail_idxs": [],
+  "sc_low_idx": {
+    "0": 0
+  },
+  "ep_is_suc": [
+    true
+  ],
+  "ep_cnt_repls": [
+    15
+  ],
+  "goal_tol": 1.0,
+  "ep_min_goal_dist": [
+    0.539
+  ],
+  "ep_final_goal_dist": [
+    2.012
+  ],
+  "ep_argmin_step": [
+    6733
+  ],
+  "ep_repl_goal_dists": [
+    [
+      [
+        16,
+        62.77663493644784
+      ],
+      [
+        516,
+        50.45039826725029
+      ],
+      [
+        1016,
+        56.0749129615613
+      ],
+      [
+        1516,
+        53.52067575691255
+      ],
+      [
+        2016,
+        57.27741435355586
+      ],
+      [
+        2516,
+        53.973608399202256
+      ],
+      [
+        3016,
+        48.53623959590375
+      ],
+      [
+        3516,
+        43.659786954434594
+      ],
+      [
+        4016,
+        44.11916800359339
+      ],
+      [
+        4516,
+        43.41874454098828
+      ],
+      [
+        4534,
+        43.582560938029715
+      ],
+      [
+        5034,
+        41.21572346933945
+      ],
+      [
+        5534,
+        35.50875658194986
+      ],
+      [
+        6034,
+        23.026209066177692
+      ],
+      [
+        6419,
+        7.77717143270033
+      ]
+    ]
+  ],
+  "ep_scores": {
+    "0": 0
+  },
+  "ep_total_rewards": {
+    "0": 17.0
+  },
+  "ncp_pred_time_list": [
+    [
+      0,
+      0.0191037654876709
+    ],
+    [
+      0,
+      1.2072789669036865
+    ],
+    [
+      0,
+      0.9059898853302002
+    ],
+    [
+      0,
+      0.9275481700897217
+    ],
+    [
+      0,
+      0.8295948505401611
+    ],
+    [
+      0,
+      0.6731200218200684
+    ],
+    [
+      0,
+      0.9055345058441162
+    ],
+    [
+      0,
+      0.8460144996643066
+    ],
+    [
+      0,
+      0.7563903331756592
+    ],
+    [
+      0,
+      0.7552001476287842
+    ],
+    [
+      0,
+      0.025301694869995117
+    ],
+    [
+      0,
+      0.8188185691833496
+    ],
+    [
+      0,
+      0.546938419342041
+    ],
+    [
+      0,
+      0.4030921459197998
+    ],
+    [
+      0,
+      0.19864916801452637
+    ],
+    [
+      0,
+      0.1000370979309082
+    ]
+  ]
+}
